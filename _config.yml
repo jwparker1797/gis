@@ -1,8 +1,7 @@
-title: Wait...what's a GIS Developer?
+title: Jesse Parker - The GIS Guy
 author: Jesse Parker
 url: https://jwparker1797.github.io/my-blog/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This is the blog description.
 
 permalink: /:slug
 
@@ -37,7 +36,7 @@ theme_config:
     title_old_projects: Old Projects
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "pt_729e7eb1eaa64c9531ad9e60ed8043c8" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
