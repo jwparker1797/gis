@@ -68,8 +68,8 @@ html {
     --bg-secondary: #f8f8f8;
     --headings: #171212;
     --text: #1F3341;
-    --links: #7CB3B4;
-    --highlight: #AC7948; // light yellow
+    --links: #AC7948;
+    --highlight: #7CB3B4; // light yellow
     --code-text: #041939;
     --share-text: #041939;
 }
@@ -77,8 +77,8 @@ html {
 @mixin dark-appearance {
   html, body  {
       --headings: #B7B3B1;
-      --links: #AC7948;
-      --highlight: #41C7C7;
+      --links: #41C7C7;
+      --highlight: #AC7948;
       --bg: #171212;
       --bg-secondary: #1F3341;
       --text: #adb5bd;
