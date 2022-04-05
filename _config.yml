@@ -1,11 +1,11 @@
 title: Jesse Parker - The GIS Guy
 author: Jesse Parker
-url: https://jwparker1797.github.io/my-blog/ # root address of the site
+url: https://jwparker1797.github.io/gis/ # root address of the site
 description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug
 
-favicon: "jwparker1797.github.io/gis/assets/3.png" # relative path to site's favicon
+favicon: "./assets/3.png" # relative path to site's favicon
 
 twitter:
     username: abhinav # update or delete this
