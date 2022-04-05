@@ -5,35 +5,21 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: linkedin
+    url: https://www.linkedin.com/in/jesse-parker-gis
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Basic World Map
+    url: https://jwparker1797.github.io/BasicWorldMap/
+    desc: This project shows the basics of WebMaps built in the ArcGIS JavaScript API 4.x.
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Weather Map
+    url: https://jwparker1797.github.io/WeatherMap/
+    desc: Yet another weather forecasting/radar app! This will walk you through how to implement different widget and also how to cummincate with other APIs on the web. **Note - You may see the forecasting widget is broke! This shows why we have maintenance. I will need to find time to fix the code to match the new NWS specs.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Row Level Access Control SOI
+    url: https://github.com/jwparker1797/RowLevelAccessControlSOI
+    desc: This Server Object Interceptor (SOI) filters ArcGIS GIS Services by row based upon membership in Portal Groups.
 
 old_project_entries:
   - title: Soopr
@@ -54,14 +40,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: linkedin
+    url: https://www.linkedin.com/in/jesse-parker-gis
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/jwparker1797
 
   - title: feed
     url: feed.xml
