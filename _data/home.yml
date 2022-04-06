@@ -46,7 +46,7 @@ footer_entries:
   - title: github
     url: https://github.com/jwparker1797
 
-  - title: feed
+  - title: RSS feed
     url: feed.xml
 
 misc_entries:
