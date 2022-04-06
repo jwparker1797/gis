@@ -9,3 +9,4 @@
 - What's the difference between a GP Toolbox and a Python Toolbox?
 - Why do I need to use Notebooks?
 - What are web components? And what are they React-ing to?
+- Why are my python environments messed up?
