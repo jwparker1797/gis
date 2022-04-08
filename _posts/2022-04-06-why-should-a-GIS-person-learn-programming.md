@@ -12,10 +12,25 @@ Eventually you will stop wanting to do the boring tasks of a GIS Tech, as I did.
 If you learn by doing, like me, this blog will should work really well for you. I do not intend to hold hands, but I will give you learning paths and resources that I have found useful in my self-taught studies.
 
 
-# How or the meat and potatoes including examples
+# Things you can do with GIS programming skills
+
+## - Automate Tasks and Workflows
+If you're new to programming, this is where you want to start. Think of a task you do everyday on your computer...that you find really boring...preferably a GIS task. This is your first project after you learn the basics. 
+
+![Automate the Boring Stuff]({{ site.url }}/assets/post/images/automate_the_boring_stuff.jpg)
+
+A good book to start learning Python that many people recommend is [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by [Al Sweigart](https://twitter.com/AlSweigart). (BTW, click that link. The book is there for FREE!). This will book will not only walk you through the syntax, but also give you a good idea on how powerful Python (and programming in general) can be.
+
+## - Process Data
+
+## - Create Applications
+
+## - Modify Existing Application Behaviors
+
+
 Footnote link example[^1]
 
-# Wrap up with additional follow-up resources
+# Wrap up with additional follow-up resources and a call to action
 
 
 # Footnotes
