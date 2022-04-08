@@ -13,7 +13,7 @@ title: "Wait...Why Should I, A GIS Person, Learn Programming?"
 # How or the bmeat and potatoes including examples
 Footnote link example[^1]
 
-# Wrap up with additional follow-up resources
+# Wrap up with additional follow-up resources and a call to action
 
 
 # Footnotes
