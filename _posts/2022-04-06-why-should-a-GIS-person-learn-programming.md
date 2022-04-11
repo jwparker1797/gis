@@ -19,15 +19,15 @@ If you're new to programming, this is where you want to start. Think of a task y
 
 ![Automate the Boring Stuff]({{ site.url }}/assets/post/images/automate_the_boring_stuff.jpg)
 
-A good book to start learning Python that many people recommend is [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by [Al Sweigart](https://twitter.com/AlSweigart). (BTW, click that link. The book is there for FREE!). This will book will not only walk you through the syntax, but also give you a good idea on how powerful Python (and programming in general) can be.
+A good book to start learning Python that many people recommend is [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/){:target="_blank"} by [Al Sweigart](https://twitter.com/AlSweigart){:target="_blank"}. (BTW, click that link. The book is there for FREE!). This will book will not only walk you through the syntax, but also give you a good idea on how powerful Python (and programming in general) can be.
 
 ## - Process Data
 If you have worked with GIS in any capacity for more than 5 minutes, you know the data frequently requires various transformations, manipulations, translations, et cetera. In programming these operations are known to many as *ETL*, or Extract-Transofrm-Load.
 
-Some GIS software provides tools to do these tasks, but usually they only cover common workflows. An example of this would be the ArcGIS [KML to Layer](https://pro.arcgis.com/en/pro-app/latest/tool-reference/conversion/kml-to-layer.htm) conversion tool. This is a good generic tool to extract Google format data, transform it to an ArcGIS format, and load it into a geodatabase. 
+Some GIS software provides tools to do these tasks, but usually they only cover common workflows. An example of this would be the ArcGIS [KML to Layer](https://pro.arcgis.com/en/pro-app/latest/tool-reference/conversion/kml-to-layer.htm){:target="_blank"} conversion tool. This is a good generic tool to extract Google format data, transform it to an ArcGIS format, and load it into a geodatabase. 
 
 > *So if we can do this in existing software, why would we need programming?*
-> 
+
 Think about what your workflow might look like in the following examples using this tool:
 - What if you had 1000 KMLs to process?
 - What if you only needed a specific feature or type in each of those KMLs?
@@ -43,7 +43,7 @@ Maybe your CEO needs a 'Go' button to do a specific analysis in one of your out-
 
 Maybe you need a new ribbon in ArcGIS Pro with tools and buttons that do complete common tasks for you?
 
-What about creating a super awesome custom map that you want to post to [r/DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful) or [r/GIS](https://www.reddit.com/r/gis)?
+What about creating a super awesome custom map that you want to post to [r/DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful){:target="_blank"} or [r/GIS](https://www.reddit.com/r/gis){:target="_blank"}?
 
 # You can do it!
 
@@ -55,4 +55,4 @@ Start with small projects that are useful for your day-to-day
 
 It's all about the easy wins at the beginning. 
 
-![Programmers - Dark Mode]({{ site.url }}/assets/post/assets/post/memes/dark_mode_bugs.jpg)
+![Programmers - Dark Mode]({{ site.url }}/assets/post/memes/dark_mode_bugs.jpg)
